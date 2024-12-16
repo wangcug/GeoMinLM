@@ -11,7 +11,7 @@ GeoMinLM is a powerful large language model tailored for geological and mineral 
 
 1. **Download the Model:**
    You can download the pre-trained model from the following Google Drive link:  
-   [Download GeoMinLM](...).
+   [Download GeoMinLM](https://drive.google.com/file/d/11NIE0VwzlWrPN_PXyBUlZiAblw69tKY8/view?usp=sharing).
 
 2. **Extract the Files:**
    Once you've downloaded the `GeoMinLM.tar.gz` file, extract it to your desired directory:
