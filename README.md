@@ -38,7 +38,7 @@ GeoMinLM is a powerful large language model tailored for geological and mineral 
 
 ### Training Data Creation
 
-If you're interested in creating your own training data or understanding the process of model training, please refer to the script `trople qa.py`. This script outlines the process for generating question-answer pairs and preparing data for training the model.
+If you're interested in creating your own training data or understanding the process of model training, please refer to the script `triple qa.py`. This script outlines the process for generating question-answer pairs and preparing data for training the model.
 
 ### License
 
